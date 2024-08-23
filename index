@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Aplicación</title>
+</head>
+<body>
+    <h1>Bienvenido a Mi Aplicación</h1>
+    <p>Esta es una página básica para la verificación de Google.</p>
+
+    <h2>Política de Privacidad</h2>
+    <p>Tu política de privacidad debe estar aquí. Asegúrate de proporcionar detalles sobre cómo manejas los datos del usuario.</p>
+
+    <h2>Términos de Servicio</h2>
+    <p>Los términos de servicio deben estar aquí.</p>
+</body>
+</html>
